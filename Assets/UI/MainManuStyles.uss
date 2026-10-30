@@ -1,0 +1,32 @@
+.header {
+    color: rgb(108, 0, 0);
+    text-shadow: 10px 10px 0 rgba(0, 0, 0, 0);
+}
+
+.button {
+    padding-right: 0;
+    color: rgb(255, 255, 255);
+    background-color: rgb(22, 29, 46);
+    align-self: center;
+    width: 300px;
+    height: 100px;
+    bottom: 0;
+    top: 0;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+    transition-duration: 0.2s;
+    transition-delay: 0.2s;
+}
+
+.button:hover {
+    scale: 1.15 1.1;
+}
+
+.button-danger {
+    scale: 1 1;
+    background-color: rgb(108, 0, 0);
+}

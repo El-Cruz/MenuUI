@@ -1,0 +1,51 @@
+# Carpetas autogeneradas por Unity
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+
+# Archivos de caché y configuraciones locales
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+.vs/
+.gradle/
+ExportedObj/
+.consulo/
+
+# Archivos autogenerados de proyectos (Visual Studio, Rider, etc.)
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Metadatos generados por Unity que no se necesitan
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
+# Archivos de reportes de errores
+sysinfo.txt
+crashlytics-build.properties
+
+# Archivos de compilación (Builds)
+*.apk
+*.aab
+*.unitypackage
+*.app
+
+# Archivos del sistema operativo (Mac/Windows)
+.DS_Store
+Thumbs.db
